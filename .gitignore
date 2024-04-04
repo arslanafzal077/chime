@@ -70,3 +70,5 @@ android/.project
 android/app/.project
 
 .xcode.env*
+
+vendor/bundle/
